@@ -69,7 +69,7 @@ function nextBtn(jokes) {
     
     board(jokes[random])
     setTimeout(() => {
-      audio.src = 'audio' + '/' + laugh[randomA]
+      audio.src = laugh[randomA]
       audio.play()
     }, 2000)
   }
