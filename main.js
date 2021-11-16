@@ -40,7 +40,7 @@ function jokesBoard() {
       
       setTimeout(function() {
         const randomA = Math.floor(Math.random() * laugh.length)
-        audio.src = 'audio' + '/' + laugh[randomA]
+        audio.src = laugh[randomA]
         audio.play()
       }, 3100);
     }, 3000)
