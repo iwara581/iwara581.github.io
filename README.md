@@ -1,2 +1,2 @@
-# iwara581.github.io
-yo mama jokes
+# Yo Mama
+jokes gotten from bestlifeoniline
